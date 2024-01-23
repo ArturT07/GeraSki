@@ -1,0 +1,28 @@
+.content-block {
+    width: 500px;
+    height: 650px;
+    background: rgba(240, 240, 240, 0.50);
+    border-radius: 2px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .special-line {
+        height: 1.5px;
+        width: 250px;
+    }
+    h1 {
+        font-size: 25px;
+        font-weight: 500;
+        margin-top: 20px;
+    }
+    img {
+        width: 400px;
+        margin-top: 10px;
+    }
+    .main-btn {
+        width: 270px;
+        cursor: pointer;
+        margin-top: 20px;
+    }
+}

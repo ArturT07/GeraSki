@@ -1,0 +1,16 @@
+.main-section {
+    background: url('../images/main-bgd.png');
+    height: 911px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.main-content {
+    padding-top: 177px;
+    padding-inline: 100px;
+    display: flex;
+}
+.group {
+    margin-right: 720px;
+
+}
